@@ -1,1 +1,2 @@
-# API
+API using postman, REST API, STATUS CODES
+ALL API SOLUTIONS 
